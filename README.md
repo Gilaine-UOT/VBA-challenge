@@ -15,3 +15,7 @@
 ### Separate VBA script files
 
 [Separate VBA script files](https://github.com/Gilaine-UOT/VBA-challenge/blob/main/Vba%20script.txt)
+
+### Alphabetical test file
+
+[Alphabetical test file](https://github.com/Gilaine-UOT/VBA-challenge/blob/main/Resources/alphabetical_testing.xlsx)
